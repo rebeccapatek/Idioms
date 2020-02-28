@@ -1,0 +1,10 @@
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.csprojAssemblyReference.cache
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.AssemblyInfoInputs.cache
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.AssemblyInfo.cs
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.deps.json
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.runtimeconfig.json
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.runtimeconfig.dev.json
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.dll
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.1/idioms.pdb
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.dll
+/Users/rebeccapatek/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.1/idioms.pdb
